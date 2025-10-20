@@ -1,0 +1,2 @@
+# DRL_for_Dynamic_Portfolio_Optimization_Incorporating_Diversification_via_a_Custom_HHI_Penalty
+This notebook uses DRL with a CNN agent to create a dynamic portfolio optimization strategy. It maximizes long-term log-return using a custom loss function that includes an explicit diversification penalty (HHI). Performance is benchmarked against Buy &amp; Hold and Equal-Weight portfolios. This notebook is not a financial advisor.
